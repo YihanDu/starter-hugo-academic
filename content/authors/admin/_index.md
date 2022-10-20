@@ -1,43 +1,36 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Yihan Du 杜伊涵
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Yihan
+last_name: Du
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. candidate at IIIS, Tsinghua University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tsinghua University
+    url: https://iiis.tsinghua.edu.cn/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on designing both computationally and statistically efficient bandit and RL algorithms, establishing rigorous theoretical analysis, and expanding online learning and RL theories.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Online learning (in particular, multi-armed bandit)
+  - Reinforcement learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: IIIS, Tsinghua University
+      year: 2018-2023 (expected)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,38 +40,33 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=_RSr3vUAAAAJ&hl
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/YihanDu
+  - icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'duyh18@mails.tsinghua.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a fifth-year Ph.D. candidate at the [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) of Tsinghua University, headed by [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/). I am fortunate to be advised by [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/) and work closely with [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (IEEE Fellow, [MSR Asia Theory Center](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/) Director).  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am visiting Cornell University from September 2022, where I am fortunate to be supervised by [Prof. Wen Sun](https://wensun.github.io/). I was a research intern at MSR Asia from January 2020 to May 2020, supervised by [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am broadly interested in online learning (in particular, multi-armed bandit) and reinforcement learning (RL). 
+My research focuses on designing both computationally and statistically efficient bandit and RL algorithms, establishing rigorous theoretical analysis, and expanding online learning and RL theories.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
