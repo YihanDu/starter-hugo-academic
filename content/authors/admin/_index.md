@@ -18,7 +18,7 @@ organizations:
     url: https://iiis.tsinghua.edu.cn/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on designing both computationally and statistically efficient bandit and RL algorithms, establishing rigorous theoretical analysis, and expanding online learning and RL theories.
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -65,7 +65,7 @@ email: 'duyh18@mails.tsinghua.edu.cn'
 highlight_name: true
 ---
 
-I am a fifth-year Ph.D. candidate at the [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) of Tsinghua University, headed by [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/). I am fortunate to be advised by [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/) and work closely with [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (IEEE Fellow, Director of [Microsoft Research Asia (MSRA) Theory Center](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/)).  
+I am a fifth-year Ph.D. candidate at the [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) of Tsinghua University, headed by [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/). I am fortunate to be advised by [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/) and also work closely with [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (IEEE Fellow, Director of [Microsoft Research Asia Theory Center](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/)).  
 
 I am currently visiting Cornell University since September 2022, where I am fortunate to be supervised by [Prof. Wen Sun](https://wensun.github.io/). I was a research intern at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) from January 2020 to May 2020, supervised by [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/). 
 

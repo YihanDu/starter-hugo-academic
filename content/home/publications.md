@@ -7,7 +7,7 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 30
 
 title: Publications
 subtitle: ''
@@ -48,7 +48,7 @@ design:
 Linear Feedback," Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2021 (* denotes equal
 contribution).
 
-[*alphabetical ordering] Wei Chen, **Yihan Du**, Longbo Huang, Haoyu Zhao, "Combinatorial Pure Exploration
+[*alphabetical order] Wei Chen, **Yihan Du**, Longbo Huang, Haoyu Zhao, "Combinatorial Pure Exploration
 for Dueling Bandit," International Conference on Machine Learning (ICML), 2020.
 
 **Yihan Du**, Siwei Wang, Longbo Huang, "Dueling Bandits: From Two-dueling to Multi-dueling,"
