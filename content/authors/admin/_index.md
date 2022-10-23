@@ -40,11 +40,11 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '/#contact'
+  - icon: google-scholar # graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai # fas
     link: https://scholar.google.com/citations?user=_RSr3vUAAAAJ&hl
   - icon: github
     icon_pack: fab
@@ -73,3 +73,5 @@ I am broadly interested in online learning (in particular, multi-armed bandit) a
 My research focuses on designing both computationally and statistically efficient bandit and RL algorithms, establishing rigorous theoretical analysis, and expanding online learning and RL theories.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} here.
+
+Email: duyh18@mails.tsinghua.edu.cn

@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Awards & Honors
+title: Awards & Hornors
 subtitle: ''
 
 content:
@@ -34,16 +34,16 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   # view: 3
-  columns: 1
+  columns: '1'
 ---
 
 China National Scholarship, by Ministry of Education of China, October 2021
 
 Toyota Scholarship, by Toyota and Tsinghua University, October 2021
 
-Wuqing Talent Scholarship, by Wuqing District Government and Tsinghua University, October 2020
-
 Huawei Academic Excellence Scholarship, by Huawei and Tsinghua University, October 2020
+
+Wuqing Talent Scholarship, by Tianjin Wuqing District Government and Tsinghua University, October 2020
 
 Outstanding Graduate, by Xiamen University, June 2018
 
