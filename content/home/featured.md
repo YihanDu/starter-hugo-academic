@@ -37,7 +37,7 @@ design:
   columns: '1'
 ---
 
-China National Scholarship, by Ministry of Education of China, October 2021
+China National Scholarship, by Ministry of Education of China, October 2022
 
 Toyota Scholarship, by Toyota and Tsinghua University, October 2021
 

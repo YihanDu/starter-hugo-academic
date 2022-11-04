@@ -49,7 +49,7 @@ Linear Feedback," Proceedings of the AAAI Conference on Artificial Intelligence 
 contribution). [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-9913.DuY.pdf) [[arXiv]](https://arxiv.org/abs/2006.07905)
 
 [*alphabetical order] Wei Chen, **Yihan Du**, Longbo Huang, Haoyu Zhao, "Combinatorial Pure Exploration
-for Dueling Bandit," International Conference on Machine Learning (ICML), 2020. [[pdf]](http://proceedings.mlr.press/v119/chen20d/chen20d.pdf) [[arXiv]](https://arxiv.org/abs/2006.12772)
+for Dueling Bandit," International Conference on Machine Learning (ICML), 2020. [[pdf]](http://proceedings.mlr.press/v119/chen20d/chen20d-supp.pdf) [[arXiv]](https://arxiv.org/abs/2006.12772)
 
 **Yihan Du**, Siwei Wang, Longbo Huang, "Dueling Bandits: From Two-dueling to Multi-dueling,"
 Proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS),
