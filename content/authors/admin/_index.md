@@ -14,7 +14,7 @@ role: Ph.D. candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: IIIS, Tsinghua University
+  - name: Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University
     url: https://iiis.tsinghua.edu.cn/en/
 
 # Short bio (displayed in user profile at end of posts)
@@ -40,9 +40,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: '/#contact'
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
   - icon: google-scholar # graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai # fas
     link: https://scholar.google.com/citations?user=_RSr3vUAAAAJ&hl
@@ -72,6 +72,7 @@ I am currently visiting Cornell University since September 2022, where I am fort
 I am broadly interested in online learning (in particular, multi-armed bandit) and reinforcement learning (RL). 
 My research focuses on designing both computationally and statistically efficient bandit and RL algorithms, establishing rigorous theoretical analysis, and expanding online learning and RL theories.
 
+Email: duyh18@mails.tsinghua.edu.cn
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} here.
 
-Email: duyh18@mails.tsinghua.edu.cn
