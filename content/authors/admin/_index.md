@@ -14,7 +14,7 @@ role: Ph.D. candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University
+  - name: IIIS, Tsinghua University
     url: https://iiis.tsinghua.edu.cn/en/
 
 # Short bio (displayed in user profile at end of posts)
