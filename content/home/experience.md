@@ -45,8 +45,8 @@ design:
   columns: '1'
 ---
 
-**Reviewer**  
-Conference: ICLR 2023, 2022, NeurIPS 2022, 2021, ICML 2022, 2021  
+**Program Committee Member/Reviewer**  
+Conference: ICLR 2022-2023, NeurIPS 2021-2022, ICML 2021-2022  
 Journal: Transactions on Machine Learning Research (TMLR)
 
 **Teaching Assistant**  

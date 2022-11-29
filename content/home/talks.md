@@ -41,10 +41,14 @@ design:
   columns: '1'
 ---
 
-**Invited Talks**
+**Talks**
 
-China Computer Federation (CCF) Doctoral Forum in Theoretical Computer Science, June 2021
-(only 18 Ph.D. students in theoretical computer science are invited nationwide)
+"Experimental Design in Linear Bandits"  
+Bandit Algorithm Seminar, by [Yau Mathematical Sciences Center (YMSC)](https://ymsc.tsinghua.edu.cn/en/) at Tsinghua University, November 2022
+
+"Combinatorial Pure Exploration for Dueling Bandit"  
+China Computer Federation (CCF) Doctoral Forum in Theoretical Computer Science, June 2021  
+(Invited talk. Only 18 Ph.D. students in theoretical computer science are invited nationwide)
 
 **Presentation**
 

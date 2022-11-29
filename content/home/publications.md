@@ -53,7 +53,7 @@ for Dueling Bandit," International Conference on Machine Learning (ICML), 2020. 
 
 **Yihan Du**, Siwei Wang, Longbo Huang, "Dueling Bandits: From Two-dueling to Multi-dueling,"
 Proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS),
-2020. [[pdf]](https://www.ifaamas.org/Proceedings/aamas2020/pdfs/p348.pdf)
+2020. [[pdf]](https://www.ifaamas.org/Proceedings/aamas2020/pdfs/p348.pdf) [[arXiv]](https://arxiv.org/abs/2211.10293)
 
 **Yihan Du**, Yan Yan, Si Chen, Yang Hua, "Object-adaptive LSTM network for Real-time Visual
 Tracking with Adversarial Data Augmentation," Neurocomputing, 2019.
