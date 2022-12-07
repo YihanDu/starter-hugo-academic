@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: 'Talks & Presentation'
+title: 'Invited Talks & Presentations'
 subtitle:
 
 content:
@@ -41,15 +41,13 @@ design:
   columns: '1'
 ---
 
-**Talks**
+**Invited Talks**
 
-"Experimental Design in Linear Bandits"  
-Bandit Algorithm Seminar, by [Yau Mathematical Sciences Center (YMSC)](https://ymsc.tsinghua.edu.cn/en/) at Tsinghua University, November 2022
+"Optimal Experimental Design in Linear Bandit," Bandit Algorithm Seminar, [Yau Mathematical Sciences Center (YMSC)](https://ymsc.tsinghua.edu.cn/en/), Tsinghua University, November 2022
 
-"Combinatorial Pure Exploration for Dueling Bandit"  
-China Computer Federation (CCF) Doctoral Forum in Theoretical Computer Science, June 2021  
-(Invited talk. Only 18 Ph.D. students in theoretical computer science are invited nationwide)
+"Combinatorial Pure Exploration for Dueling Bandit," China Computer Federation (CCF) Doctoral Forum in Theoretical Computer Science, June 2021  
+(Only 18 Ph.D. students in theoretical computer science are invited nationwide)
 
-**Presentation**
+**Presentations**
 
 ICML 2022, NeurIPS 2021, AAAI 2021, ICML 2020, AAMAS 2020

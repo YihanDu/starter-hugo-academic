@@ -36,6 +36,12 @@ design:
   columns: '1'
 ---
 
+**Yihan Du**, Siwei Wang, Longbo Huang, “Risk-sensitive reinforcement learning: Iterated CVaR and
+the worst path,” Preprint, 2022.
+
+**Yihan Du**, Wei Chen, Yuko Kuroki, Longbo Huang, “Collaborative pure exploration in kernel bandit,”
+Preprint, 2021.
+
 **Yihan Du**, Wei Chen, "Branching Reinforcement Learning," International Conference on Machine Learning (ICML), 2022. [[pdf]](https://proceedings.mlr.press/v162/du22a/du22a.pdf) [[arXiv]](https://arxiv.org/abs/2202.07995)
 
 **Yihan Du**, Siwei Wang, Zhixuan Fang, Longbo Huang, "Continuous Mean-Covariance Bandits," Proceedings of the Conference on Neural Information Processing Systems (NeurIPS), 2021. [[pdf]](https://proceedings.neurips.cc/paper/2021/file/07811dc6c422334ce36a09ff5cd6fe71-Supplemental.pdf) [[arXiv]](https://arxiv.org/abs/2102.12090)
