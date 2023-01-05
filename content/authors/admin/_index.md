@@ -35,7 +35,7 @@ education:
       year: 2018-2023 (expected)
     - course: Visiting Ph.D. Student
       institution: Computer Science, Cornell University
-      year: Fall 2022
+      year: September-December 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
