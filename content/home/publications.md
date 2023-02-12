@@ -36,6 +36,8 @@ design:
   columns: '1'
 ---
 
+**Yihan Du**, Longbo Huang, Wen Sun, “Multi-task Representation Learning for Pure Exploration in Linear Bandits,” Preprint, 2023.
+
 **Yihan Du**, Siwei Wang, Longbo Huang, “Provably Efficient Risk-Sensitive Reinforcement Learning: Iterated CVaR and Worst Path,” International Conference on Learning Representations (ICLR), 2023.
 
 **Yihan Du**, Wei Chen, Yuko Kuroki, Longbo Huang, “Collaborative Pure Exploration in Kernel Bandit,” International Conference on Learning Representations (ICLR), 2023.
