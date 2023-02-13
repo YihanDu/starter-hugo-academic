@@ -34,7 +34,7 @@ education:
       institution: Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University
       year: 2018-2023 (expected)
     - course: Visiting Ph.D. Student
-      institution: Computer Science, Cornell University
+      institution: Department of Computer Science, Cornell University
       year: September-December 2022
 
 # Social/Academic Networking

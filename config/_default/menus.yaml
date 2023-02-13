@@ -19,14 +19,17 @@ main:
   - name: Publications
     url: '#publications'
     weight: 20
+  - name: Preprints
+    url: '#preprints'
+    weight: 25
   - name: Talks & Presentation
     url: '#talks'
     weight: 40
   - name: Academic Service & Activities
-    url: '#experience'
+    url: '#activity'
     weight: 50
   - name: Awards & Hornors
-    url: '#featured'
+    url: '#award'
     weight: 60
   - name: Contact
     url: '#contact'
