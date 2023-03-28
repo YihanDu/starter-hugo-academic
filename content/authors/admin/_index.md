@@ -33,7 +33,7 @@ education:
     - course: Ph.D. Candidate
       institution: Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University
       year: 2018-2023 (expected)
-    - course: Visiting Ph.D. Student
+    - course: Visiting Ph.D. Student (in-person)
       institution: Department of Computer Science, Cornell University
       year: September-December 2022
 
@@ -69,7 +69,7 @@ highlight_name: true
 
 I am a fifth-year Ph.D. candidate at the [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/) (headed by [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)) of Tsinghua University. I am fortunate to be advised by [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/) and also work closely with [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (IEEE Fellow, Director of [Microsoft Research Asia Theory Center](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/)).  
 
-I visited Cornell University from September to December in 2022, where I was fortunate to be supervised by [Prof. Wen Sun](https://wensun.github.io/). I was also a research intern at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) from January to May in 2020, supervised by [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/).
+I visited Cornell University in person from September to December in 2022, where I was fortunate to be supervised by [Prof. Wen Sun](https://wensun.github.io/). I was also a research intern at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) from January to May in 2020, supervised by [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/).
 
 I am broadly interested in multiple directions of machine learning, including online learning (in particular, multi-armed bandit), reinforcement learning (RL), representation learning and meta learning. 
 My research focuses on designing both computationally and statistically efficient bandit and RL algorithms, establishing rigorous theoretical analysis, and expanding online learning and RL theories.
