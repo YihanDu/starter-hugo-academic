@@ -43,6 +43,8 @@ design:
 
 **Invited Talks**
 
+"Risk-aware Online Decision Making," [The MLOPT Idea Seminar](https://mlopt.ece.wisc.edu/idea-seminar/), University of Wisconsin-Madison, April 2023
+
 "Optimal Experimental Design in Linear Bandit," Bandit Algorithm Seminar, [Yau Mathematical Sciences Center (YMSC)](https://ymsc.tsinghua.edu.cn/en/), Tsinghua University, November 2022
 
 "Combinatorial Pure Exploration for Dueling Bandit," China Computer Federation (CCF) Doctoral Forum in Theoretical Computer Science, June 2021  
@@ -50,4 +52,4 @@ design:
 
 **Presentations**
 
-ICML 2022, NeurIPS 2021, AAAI 2021, ICML 2020, AAMAS 2020
+ICLR 2023, ICML 2022, NeurIPS 2021, AAAI 2021, ICML 2020, AAMAS 2020

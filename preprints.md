@@ -36,7 +36,7 @@ design:
   columns: '1'
 ---
 
-**Yihan Du**, Longbo Huang, Wen Sun, “Multi-task Representation Learning for Pure Exploration in Linear Bandits,” Preprint, 2023.
+None
 
 <!-- {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).

@@ -36,9 +36,11 @@ design:
   columns: '1'
 ---
 
-**Yihan Du**, Siwei Wang, Longbo Huang, “Provably Efficient Risk-Sensitive Reinforcement Learning: Iterated CVaR and Worst Path,” International Conference on Learning Representations (ICLR), 2023.
+**Yihan Du**, Longbo Huang, Wen Sun, “Multi-task Representation Learning for Pure Exploration in Linear Bandits,” International Conference on Machine Learning (ICML), 2023.
 
-**Yihan Du**, Wei Chen, Yuko Kuroki, Longbo Huang, “Collaborative Pure Exploration in Kernel Bandit,” International Conference on Learning Representations (ICLR), 2023.
+**Yihan Du**, Siwei Wang, Longbo Huang, “Provably Efficient Risk-Sensitive Reinforcement Learning: Iterated CVaR and Worst Path,” International Conference on Learning Representations (ICLR), 2023. 
+
+**Yihan Du**, Wei Chen, Yuko Kuroki, Longbo Huang, “Collaborative Pure Exploration in Kernel Bandit,” International Conference on Learning Representations (ICLR), 2023. [[pdf]](https://openreview.net/pdf?id=hLbeJ6jObDD) [[arXiv]](https://arxiv.org/abs/2110.15771)
 
 **Yihan Du**, Wei Chen, "Branching Reinforcement Learning," International Conference on Machine Learning (ICML), 2022. [[pdf]](https://proceedings.mlr.press/v162/du22a/du22a.pdf) [[arXiv]](https://arxiv.org/abs/2202.07995)
 
