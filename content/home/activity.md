@@ -52,6 +52,3 @@ Journal: Transactions on Machine Learning Research (TMLR)
 **Teaching Assistant**  
 Stochastic Network Optimization, graduate course (IIIS, Tsinghua University), Spring 2021  
 Introduction to Computer Science, undergraduate course (Yao Class, Tsinghua University), Fall 2019
-
-**Social Activity**  
-President of Graduate Union at IIIS, Tsinghua University, June 2020 - June 2021

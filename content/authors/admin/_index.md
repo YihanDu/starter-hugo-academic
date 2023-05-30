@@ -24,8 +24,6 @@ bio:
 interests:
   - Online Learning (in particular, Multi-armed Bandit)
   - Reinforcement Learning
-  - Representation Learning
-  - Meta Learning
 
 # Education to show in About widget
 education:
@@ -71,7 +69,7 @@ I am a fifth-year Ph.D. candidate at the [Institute for Interdisciplinary Inform
 
 I visited Cornell University in person from September to December in 2022, where I was fortunate to be supervised by [Prof. Wen Sun](https://wensun.github.io/). I was also a research intern at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) from January to May in 2020, supervised by [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/).
 
-I am broadly interested in multiple directions of machine learning, including online learning (in particular, multi-armed bandit), reinforcement learning (RL), representation learning and meta learning. 
+I am interested in machine learning, with emphases on online learning (in particular, multi-armed bandit) and reinforcement learning (RL). 
 My research focuses on designing both computationally and statistically efficient bandit and RL algorithms, establishing rigorous theoretical analysis, and expanding online learning and RL theories.
 
 Email: duyh18@mails.tsinghua.edu.cn
