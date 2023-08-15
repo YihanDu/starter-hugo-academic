@@ -30,16 +30,16 @@ interests:
 education:
   courses:
     - course: Postdoctoral Researcher
-      institution: Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign
+      institution: University of Illinois at Urbana-Champaign
       year: August 2023 - Present
     - course: Ph.D. in Computer Science
-      institution: Institute for Interdisciplinary Information Sciences, Tsinghua University
+      institution: Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University
       year: September 2018 - June 2023
     - course: Visiting Ph.D. Student (in-person)
-      institution: Department of Computer Science, Cornell University
+      institution: Cornell University
       year: September - December 2022
     - course: B.E. in Computer Science
-      institution: Department of Computer Science, Xiamen University
+      institution: Xiamen University
       year: September 2014 - June 2018
 
 # Social/Academic Networking
