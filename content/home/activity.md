@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Academic Service & Activities
 subtitle:
@@ -47,8 +47,11 @@ design:
 
 **Program Committee Member/Reviewer**  
 Conference: ICML 2021-2023, NeurIPS 2021-2023, ICLR 2022-2023  
-Journal: Transactions on Machine Learning Research (TMLR)
+Journal: Transactions on Machine Learning Research (TMLR), Transactions on Networking (ToN)
 
 **Teaching Assistant**  
 Stochastic Network Optimization, graduate course (IIIS, Tsinghua University), Spring 2021  
 Introduction to Computer Science, undergraduate course (Yao Class, Tsinghua University), Fall 2019
+
+**Social Activity**  
+President of Graduate Union at IIIS, Tsinghua University, June 2020 - June 2021

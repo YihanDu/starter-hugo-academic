@@ -22,12 +22,18 @@ main:
   # - name: Preprints
   #   url: '#preprints'
   #   weight: 25
+  - name: Selected Awards
+    url: '#award'
+    weight: 30
+  - name: Invited Talks
+    url: '#talks'
+    weight: 40
   - name: Academic Service & Activities
     url: '#activity'
-    weight: 30
+    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 40
+    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

@@ -36,9 +36,9 @@ design:
   columns: '1'
 ---
 
-**Yihan Du**, Longbo Huang, Wen Sun, “Multi-task Representation Learning for Pure Exploration in Linear Bandits,” International Conference on Machine Learning (ICML), 2023.
+**Yihan Du**, Longbo Huang, Wen Sun, “Multi-task Representation Learning for Pure Exploration in Linear Bandits,” International Conference on Machine Learning (ICML), 2023. [[pdf]](https://openreview.net/pdf?id=EqAsFB28T0) [[arXiv]](https://arxiv.org/abs/2302.04441)
 
-**Yihan Du**, Siwei Wang, Longbo Huang, “Provably Efficient Risk-Sensitive Reinforcement Learning: Iterated CVaR and Worst Path,” International Conference on Learning Representations (ICLR), 2023. 
+**Yihan Du**, Siwei Wang, Longbo Huang, “Provably Efficient Risk-Sensitive Reinforcement Learning: Iterated CVaR and Worst Path,” International Conference on Learning Representations (ICLR), 2023. [[pdf]](https://openreview.net/pdf?id=Yn0xg-kHNW-) [[arXiv]](https://arxiv.org/abs/2206.02678)
 
 **Yihan Du**, Wei Chen, Yuko Kuroki, Longbo Huang, “Collaborative Pure Exploration in Kernel Bandit,” International Conference on Learning Representations (ICLR), 2023. [[pdf]](https://openreview.net/pdf?id=hLbeJ6jObDD) [[arXiv]](https://arxiv.org/abs/2110.15771)
 
@@ -52,7 +52,7 @@ design:
 
 **Yihan Du***, Yuko Kuroki*, Wei Chen, "Combinatorial Pure Exploration with Full-Bandit or Partial
 Linear Feedback," Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2021 (* denotes equal
-contribution). [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-9913.DuY.pdf) [[arXiv]](https://arxiv.org/abs/2006.07905)
+contribution). [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/16892/16699) [[arXiv]](https://arxiv.org/abs/2006.07905)
 
 [*alphabetical order] Wei Chen, **Yihan Du**, Longbo Huang, Haoyu Zhao, "Combinatorial Pure Exploration
 for Dueling Bandit," International Conference on Machine Learning (ICML), 2020. [[pdf]](http://proceedings.mlr.press/v119/chen20d/chen20d-supp.pdf) [[arXiv]](https://arxiv.org/abs/2006.12772)

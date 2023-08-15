@@ -6,7 +6,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 60
 
 title: Contact
 subtitle:
@@ -25,14 +25,14 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: duyh18@mails.tsinghua.edu.cn
+  email: duyihan1996@gmail.com
   # phone: 888 888 88 88
   address:
-    street: FIT Building, Tsinghua University
-    city: Beijing
-    region: China
-    postcode: '100084'
-    country: China
+    street: Coordinated Science Lab 128, 1308 W. Main Street
+    city: Urbana
+    region: Illinois
+    postcode: '61801'
+    country: United States
     country_code:
   # coordinates:
   #   latitude: '37.4275'

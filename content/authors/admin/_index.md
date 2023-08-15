@@ -10,12 +10,12 @@ last_name: Du
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. candidate
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: IIIS, Tsinghua University
-    url: https://iiis.tsinghua.edu.cn/en/
+  - name: ECE & CSL, UIUC
+    url: https://csl.illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -24,16 +24,23 @@ bio:
 interests:
   - Online Learning (in particular, Multi-armed Bandit)
   - Reinforcement Learning
+  - Representation Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. Candidate
-      institution: Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University
-      year: 2018-2023 (expected)
+    - course: Postdoctoral Researcher
+      institution: Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign
+      year: August 2023 - Present
+    - course: Ph.D. in Computer Science
+      institution: Institute for Interdisciplinary Information Sciences, Tsinghua University
+      year: September 2018 - June 2023
     - course: Visiting Ph.D. Student (in-person)
       institution: Department of Computer Science, Cornell University
-      year: September-December 2022
+      year: September - December 2022
+    - course: B.E. in Computer Science
+      institution: Department of Computer Science, Xiamen University
+      year: September 2014 - June 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -59,20 +66,22 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'duyh18@mails.tsinghua.edu.cn'
+email: 'duyihan1996@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a fifth-year Ph.D. candidate at the [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/) (headed by [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)) of Tsinghua University. I am fortunate to be advised by [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/) and also work closely with [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (IEEE Fellow, Director of [Microsoft Research Asia Theory Center](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/)).  
+I am a postdoctoral researcher at University of Illinois at Urbana-Champaign, where I am fortunate to be advised by [Prof. R. Srikant](https://sites.google.com/a/illinois.edu/srikant/home) (IEEE Fellow).
 
-I visited Cornell University in person from September to December in 2022, where I was fortunate to be supervised by [Prof. Wen Sun](https://wensun.github.io/). I was also a research intern at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) from January to May in 2020, supervised by [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/).
+Prior to that, I received my Ph.D. from [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/) (headed by [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)), Tsinghua University in June, 2023. During my Ph.D. study, I was fortunate to be advised by [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/) and also worked closely with [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (IEEE Fellow, Director of [Microsoft Research Asia Theory Center](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/)).  
 
-I am interested in machine learning, with emphases on online learning (in particular, multi-armed bandit) and reinforcement learning (RL). 
-My research focuses on designing both computationally and statistically efficient bandit and RL algorithms, establishing rigorous theoretical analysis, and expanding online learning and RL theories.
+I visited Cornell University in person during September-December, 2022, where I was lucky to be supervised by [Prof. Wen Sun](https://wensun.github.io/). I was also a research intern at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) during January-May, 2020, supervised by [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/).
 
-Email: duyh18@mails.tsinghua.edu.cn
+I am broadly interested in multiple directions of machine learning, including online learning (in particular, multi-armed bandit), reinforcement learning and representation learning. 
+<!-- My research focuses on designing both computationally and statistically efficient bandit and RL algorithms, establishing rigorous theoretical analysis, and expanding online learning and RL theories. -->
+
+Email: ~~duyh18@mails.tsinghua.edu.cn~~ duyihan1996@gmail.com
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} here.
 
