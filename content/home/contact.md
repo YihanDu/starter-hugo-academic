@@ -25,10 +25,10 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: duyihan1996@gmail.com
+  email: yihandu@illinois.edu
   # phone: 888 888 88 88
   address:
-    street: Coordinated Science Lab 128, 1308 W. Main Street
+    street: Coordinated Science Laboratory, 1308 W. Main Street
     city: Urbana
     region: Illinois
     postcode: '61801'
