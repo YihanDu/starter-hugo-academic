@@ -36,6 +36,8 @@ design:
   columns: '1'
 ---
 
+Nuoya Xiong\#, **Yihan Du**, Longbo Huang, “Provably Safe Reinforcement Learning with Step-wise Violation Constraints,” Proceedings of the Conference on Neural Information Processing Systems (NeurIPS), 2023 (# mentored undergraduate with my Ph.D. advisor).
+
 **Yihan Du**, Longbo Huang, Wen Sun, “Multi-task Representation Learning for Pure Exploration in Linear Bandits,” International Conference on Machine Learning (ICML), 2023. [[pdf]](https://openreview.net/pdf?id=EqAsFB28T0) [[arXiv]](https://arxiv.org/abs/2302.04441)
 
 **Yihan Du**, Siwei Wang, Longbo Huang, “Provably Efficient Risk-Sensitive Reinforcement Learning: Iterated CVaR and Worst Path,” International Conference on Learning Representations (ICLR), 2023. [[pdf]](https://openreview.net/pdf?id=Yn0xg-kHNW-) [[arXiv]](https://arxiv.org/abs/2206.02678)

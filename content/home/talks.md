@@ -47,5 +47,4 @@ design:
 
 "Optimal Experimental Design in Linear Bandit," Bandit Algorithm Seminar, [Yau Mathematical Sciences Center (YMSC), Tsinghua University](https://ymsc.tsinghua.edu.cn/en/), November 2022
 
-"Combinatorial Pure Exploration for Dueling Bandit," China Computer Federation (CCF) Doctoral Forum in Theoretical Computer Science, June 2021  
-(Only 18 Ph.D. students in theoretical computer science are invited nationwide)
+"Combinatorial Pure Exploration for Dueling Bandit," China Computer Federation (CCF) Doctoral Forum in Theoretical Computer Science, June 2021 (only 18 Ph.D. students in theoretical computer science are invited nationwide)
