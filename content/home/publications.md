@@ -36,7 +36,7 @@ design:
   columns: '1'
 ---
 
-Nuoya Xiong\#, **Yihan Du**, Longbo Huang, “Provably Safe Reinforcement Learning with Step-wise Violation Constraints,” Proceedings of the Conference on Neural Information Processing Systems (NeurIPS), 2023 (# mentored undergraduate with my Ph.D. advisor).
+Nuoya Xiong\#, **Yihan Du**, Longbo Huang, “Provably Safe Reinforcement Learning with Step-wise Violation Constraints,” Proceedings of the Conference on Neural Information Processing Systems (NeurIPS), 2023 (#undergraduate mentored with my Ph.D. advisor). [[pdf]](https://openreview.net/pdf?id=UJ9o8wbB5U) [[arXiv]](https://arxiv.org/pdf/2302.06064.pdf)
 
 **Yihan Du**, Longbo Huang, Wen Sun, “Multi-task Representation Learning for Pure Exploration in Linear Bandits,” International Conference on Machine Learning (ICML), 2023. [[pdf]](https://openreview.net/pdf?id=EqAsFB28T0) [[arXiv]](https://arxiv.org/abs/2302.04441)
 
@@ -53,7 +53,7 @@ Nuoya Xiong\#, **Yihan Du**, Longbo Huang, “Provably Safe Reinforcement Learni
 **Yihan Du**, Siwei Wang, Longbo Huang, "A One-Size-Fits-All Solution to Conservative Bandit Problems," Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2021. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/16891/16698) [[arXiv]](https://arxiv.org/abs/2012.07341)
 
 **Yihan Du***, Yuko Kuroki*, Wei Chen, "Combinatorial Pure Exploration with Full-Bandit or Partial
-Linear Feedback," Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2021 (* denotes equal
+Linear Feedback," Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2021 (*equal
 contribution). [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/16892/16699) [[arXiv]](https://arxiv.org/abs/2006.07905)
 
 [*alphabetical order] Wei Chen, **Yihan Du**, Longbo Huang, Haoyu Zhao, "Combinatorial Pure Exploration
