@@ -36,7 +36,11 @@ design:
   columns: '1'
 ---
 
-Nuoya Xiong\#, **Yihan Du**, Longbo Huang, “Provably Safe Reinforcement Learning with Step-wise Violation Constraints,” Proceedings of the Conference on Neural Information Processing Systems (NeurIPS), 2023 (#undergraduate mentored with my Ph.D. advisor). [[pdf]](https://openreview.net/pdf?id=UJ9o8wbB5U) [[arXiv]](https://arxiv.org/pdf/2302.06064.pdf)
+**Yihan Du**, R. Srikant*, Wei Chen*, "Cascading Reinforcement Learning," International Conference on Learning Representations (ICLR), 2024 (*equal advising, <font color='red'>spotlight, top 5%</font>).
+
+Yu Chen\#, **Yihan Du**, Pihe Hu, Siwei Wang, Desheng Wu, Longbo Huang, "Provably Efficient Iterated CVaR Reinforcement Learning with Function Approximation and Human Feedback," International Conference on Learning Representations (ICLR), 2024 (#graduate student mentored with my Ph.D. advisor).
+
+Nuoya Xiong\#, **Yihan Du**, Longbo Huang, “Provably Safe Reinforcement Learning with Step-wise Violation Constraints,” Proceedings of the Conference on Neural Information Processing Systems (NeurIPS), 2023 (#undergraduate student mentored with my Ph.D. advisor). [[pdf]](https://openreview.net/pdf?id=UJ9o8wbB5U) [[arXiv]](https://arxiv.org/pdf/2302.06064.pdf)
 
 **Yihan Du**, Longbo Huang, Wen Sun, “Multi-task Representation Learning for Pure Exploration in Linear Bandits,” International Conference on Machine Learning (ICML), 2023. [[pdf]](https://openreview.net/pdf?id=EqAsFB28T0) [[arXiv]](https://arxiv.org/abs/2302.04441)
 

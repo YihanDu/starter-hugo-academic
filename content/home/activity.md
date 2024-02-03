@@ -46,7 +46,8 @@ design:
 ---
 
 **Program Committee Member/Reviewer**  
-Conference: ICML 2021-2023, NeurIPS 2021-2023, ICLR 2022-2024  
+Conference: ICML 2021-2023, NeurIPS 2021-2023, ICLR 2022-2024, UAI 2024
+
 Journal: Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Journal of Machine Learning Research (JMLR), Transactions on Networking (ToN), Transactions on Machine Learning Research (TMLR), Transactions on Network Science and Engineering (TNSE)
 
 **Teaching Assistant**  
