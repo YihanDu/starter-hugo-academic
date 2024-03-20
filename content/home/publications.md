@@ -36,7 +36,7 @@ design:
   columns: '1'
 ---
 
-**Yihan Du**, R. Srikant*, Wei Chen*, "Cascading Reinforcement Learning," International Conference on Learning Representations (ICLR), 2024 (*equal advising, <font color='red'>spotlight, top 5%</font>).
+**Yihan Du**, R. Srikant*, Wei Chen*, "Cascading Reinforcement Learning," International Conference on Learning Representations (ICLR), 2024 (*equal advising, <font color='red'>spotlight</font>).
 
 Yu Chen\#, **Yihan Du**, Pihe Hu, Siwei Wang, Desheng Wu, Longbo Huang, "Provably Efficient Iterated CVaR Reinforcement Learning with Function Approximation and Human Feedback," International Conference on Learning Representations (ICLR), 2024 (#graduate student mentored with my Ph.D. advisor).
 
