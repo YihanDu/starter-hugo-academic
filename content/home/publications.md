@@ -36,6 +36,8 @@ design:
   columns: '1'
 ---
 
+**Yihan Du**, Anna Winnicki, Gal Dalal, Shie Mannor, R. Srikant, "Exploration-Driven Policy Optimization in RLHF: Theoretical Insights on Efficient Data Utilization," International Conference on Machine Learning (ICML), 2024.
+
 **Yihan Du**, R. Srikant*, Wei Chen*, "Cascading Reinforcement Learning," International Conference on Learning Representations (ICLR), 2024 (*equal advising, <font color='red'>spotlight</font>).
 
 Yu Chen\#, **Yihan Du**, Pihe Hu, Siwei Wang, Desheng Wu, Longbo Huang, "Provably Efficient Iterated CVaR Reinforcement Learning with Function Approximation and Human Feedback," International Conference on Learning Representations (ICLR), 2024 (#graduate student mentored with my Ph.D. advisor).
