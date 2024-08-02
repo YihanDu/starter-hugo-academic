@@ -22,8 +22,8 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Online Learning (in particular, Multi-armed Bandit)
   - Reinforcement Learning
+  - Online Learning (in particular, Multi-armed Bandit)
   - Representation Learning
 
 # Education to show in About widget
@@ -72,7 +72,7 @@ email: 'yihandu@illinois.edu'
 highlight_name: true
 ---
 
-I am a postdoctoral researcher at University of Illinois at Urbana-Champaign, where I am fortunate to be advised by [Prof. R. Srikant](https://sites.google.com/a/illinois.edu/srikant/home) (IEEE Fellow). I am broadly interested in the area of machine learning, including online learning (in particular, multi-armed bandit), reinforcement learning and representation learning.
+I am a postdoctoral researcher at University of Illinois Urbana-Champaign, where I am fortunate to be advised by [Prof. R. Srikant](https://sites.google.com/a/illinois.edu/srikant/home) (IEEE Fellow). I am broadly interested in the area of machine learning, including reinforcement learning, online learning (in particular, multi-armed bandit) and representation learning.
 
 Prior to that, I received my Ph.D. from [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/) (headed by [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)), Tsinghua University in June 2023. During my Ph.D. study, I was fortunate to be advised by [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/) and also work closely with [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (IEEE Fellow, Director of [MSR Asia Theory Center](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/)).
 
@@ -81,9 +81,9 @@ I visited Cornell University in person during September-December 2022, where I w
 
 <!-- My research focuses on designing both computationally and statistically efficient bandit and RL algorithms, establishing rigorous theoretical analysis, and expanding online learning and RL theories. -->
 
-My committee members are [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (MSRA, IEEE Fellow), [Wei Chen](https://weichen-cas.github.io/) (CAS), [Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/) (Tsinghua), [Jian Li](https://people.iiis.tsinghua.edu.cn/~jianli/) (Tsinghua) and [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) (Tsinghua, IEEE Fellow).
+<!-- My committee members are [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (MSRA, IEEE Fellow), [Wei Chen](https://weichen-cas.github.io/) (CAS), [Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/) (Tsinghua), [Jian Li](https://people.iiis.tsinghua.edu.cn/~jianli/) (Tsinghua) and [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) (Tsinghua, IEEE Fellow). -->
 
-Email: ~~duyh18@mails.tsinghua.edu.cn~~ yihandu@illinois.edu
+Email: yihandu@illinois.edu
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} here.
 

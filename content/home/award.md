@@ -37,11 +37,13 @@ design:
   columns: '1'
 ---
 
-<font color='red'>Tsinghua Outstanding Doctoral Dissertation Award</font>, by Tsinghua University, June 2023 (the only recipient among CS graduates at IIIS, Tsinghua University in 2023)
+<font color='red'>China Computer Federation (CCF) Agent and Multi-Agent System Doctoral Dissertation Award</font>, by CCF Multi-Agent System Committee, June 2024 (the only recipient nationwide)
 
-<font color='red'>Beijing Outstanding Graduate</font>, by Beijing Municipal Education Commission, June 2023 (the only recipient among CS graduates at IIIS, Tsinghua University in 2023)
+<font color='red'>Tsinghua Outstanding Doctoral Dissertation Award</font>, by Tsinghua University, June 2023 (the only recipient among CS graduates at IIIS, Tsinghua University)
 
-China National Scholarship for Ph.D. Students, by Ministry of Education of China, October 2022 (the only recipient among CS students at IIIS, Tsinghua University in 2022)
+Beijing Outstanding Graduate, by Beijing Municipal Education Commission, June 2023 (the only recipient among CS graduates at IIIS, Tsinghua University)
+
+China National Scholarship for Ph.D. Students, by Ministry of Education of China, October 2022 (the only recipient among CS students at IIIS, Tsinghua University)
 
 Toyota Scholarship, by Toyota and Tsinghua University, October 2021
 
