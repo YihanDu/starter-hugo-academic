@@ -46,16 +46,16 @@ design:
 ---
 
 **Reviewer**  
-Conference: ICML 2021-2024, NeurIPS 2021-2024, ICLR 2022-2024, UAI 2024, RLC 2024
+Conference: ICML 2021-2024, NeurIPS 2021-2024, ICLR 2022-2024, AAAI 2025, UAI 2024, RLC 2024
 
 Journal: Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Journal of Machine Learning Research (JMLR), Transactions on Networking (ToN), Transactions on Machine Learning Research (TMLR), Transactions on Network Science and Engineering (TNSE)
 
 **Technical Program Committee (TPC) Member**  
-INFOCOM 2025, IEEE/IFIP WiOpt 2024
+INFOCOM 2025, WiOpt 2024
 
 **Teaching Assistant**  
-Stochastic Network Optimization, graduate course (IIIS, Tsinghua University), Spring 2021  
-Introduction to Computer Science, undergraduate course (Yao Class, Tsinghua University), Fall 2019
+Stochastic Network Optimization (taught in English), graduate course at IIIS, Tsinghua University, Spring 2021  
+Introduction to Computer Science (taught in English), undergraduate course at Yao Class, Tsinghua University, Fall 2019  
 
 **Social Activity**  
 President of Graduate Union at IIIS, Tsinghua University, June 2020 - June 2021
