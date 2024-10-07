@@ -16,12 +16,12 @@ main:
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
+  - name: Preprints
+    url: '#preprints'
+    weight: 15
   - name: Publications
     url: '#publications'
     weight: 20
-  # - name: Preprints
-  #   url: '#preprints'
-  #   weight: 25
   - name: Selected Awards
     url: '#award'
     weight: 30

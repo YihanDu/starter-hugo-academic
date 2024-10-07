@@ -7,7 +7,7 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 25
+weight: 15
 
 title: Preprints
 subtitle: ''
@@ -36,7 +36,7 @@ design:
   columns: '1'
 ---
 
-None
+**Yihan Du**, Anna Winnicki, Gal Dalal, Shie Mannor, R. Srikant, “Reinforcement Learning with Segment Feedback,” Preprint, 2024.
 
 <!-- {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).

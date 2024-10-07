@@ -46,7 +46,7 @@ design:
 ---
 
 **Reviewer**  
-Conference: ICML 2021-2024, NeurIPS 2021-2024, ICLR 2022-2024, AAAI 2025, UAI 2024, RLC 2024
+Conference: ICML 2021-2024, NeurIPS 2021-2024, ICLR 2022-2025, AAAI 2025, AISTATS 2025, UAI 2024, RLC 2024
 
 Journal: Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Journal of Machine Learning Research (JMLR), Transactions on Networking (ToN), Transactions on Machine Learning Research (TMLR), Transactions on Network Science and Engineering (TNSE)
 

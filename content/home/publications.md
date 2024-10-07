@@ -40,7 +40,7 @@ design:
 
 **Yihan Du**, R. Srikant, Wei Chen, "Cascading Reinforcement Learning," International Conference on Learning Representations (ICLR), 2024 (<font color='red'>spotlight, top 5%</font>). [[pdf]](https://openreview.net/pdf?id=KjOAHlKMF5) [[arXiv]](https://arxiv.org/abs/2401.08961)
 
-Yu Chen\#, **Yihan Du**, Pihe Hu, Siwei Wang, Desheng Wu, Longbo Huang, "Provably Efficient Iterated CVaR Reinforcement Learning with Function Approximation and Human Feedback," International Conference on Learning Representations (ICLR), 2024 (#graduate student mentored with my Ph.D. advisor). [[pdf]](https://openreview.net/pdf?id=Yn0xg-kHNW-) [[arXiv]](https://arxiv.org/abs/2307.02842)
+Yu Chen\#, **Yihan Du**, Pihe Hu, Siwei Wang, Desheng Wu, Longbo Huang, "Provably Efficient Iterated CVaR Reinforcement Learning with Function Approximation and Human Feedback," International Conference on Learning Representations (ICLR), 2024 (#graduate student mentored with my Ph.D. advisor). [[pdf]](https://openreview.net/pdf?id=vW1SkPl4kp) [[arXiv]](https://arxiv.org/abs/2307.02842)
 
 Nuoya Xiong\#, **Yihan Du**, Longbo Huang, “Provably Safe Reinforcement Learning with Step-wise Violation Constraints,” Proceedings of the Conference on Neural Information Processing Systems (NeurIPS), 2023 (#undergraduate student mentored with my Ph.D. advisor). [[pdf]](https://openreview.net/pdf?id=UJ9o8wbB5U) [[arXiv]](https://arxiv.org/abs/2302.06064)
 
