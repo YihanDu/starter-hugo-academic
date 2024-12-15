@@ -58,4 +58,4 @@ Stochastic Network Optimization (taught in English), graduate course at IIIS, Ts
 Introduction to Computer Science (taught in English), undergraduate course at Yao Class, Tsinghua University, Fall 2019  
 
 **Social Activity**  
-President of Graduate Union at IIIS, Tsinghua University, June 2020 - June 2021
+President of Graduate Student Union at IIIS, Tsinghua University, June 2020 - June 2021
