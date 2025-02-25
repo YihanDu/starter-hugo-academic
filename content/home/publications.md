@@ -69,12 +69,6 @@ for Dueling Bandit," International Conference on Machine Learning (ICML), 2020. 
 Proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS),
 2020. [[pdf]](https://www.ifaamas.org/Proceedings/aamas2020/pdfs/p348.pdf) [[arXiv]](https://arxiv.org/abs/2211.10293)
 
-**Yihan Du**, Yan Yan, Si Chen, Yang Hua, "Object-adaptive LSTM Network for Real-time Visual
-Tracking with Adversarial Data Augmentation," Neurocomputing, 2019.
-
-**Yihan Du**, Yan Yan, Si Chen, Yang Hua, Hanzi Wang, "Object-adaptive LSTM Network for
-Visual Tracking," International Conference on Pattern Recognition (ICPR), 2018.
-
 
 <!-- {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).

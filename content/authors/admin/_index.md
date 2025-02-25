@@ -22,9 +22,10 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Reinforcement Learning
-  - Online Learning (in particular, Multi-armed Bandit)
-  - Representation Learning
+  - Reinforcement learning, online learning (in particular, bandits)
+  - Application of RL and bandits in LLMs, e.g., RLHF and DPO
+  - Diffusion models for decision making
+  - Multi-task/Meta learning
 
 # Education to show in About widget
 education:
@@ -72,18 +73,17 @@ email: 'yihandu@illinois.edu'
 highlight_name: true
 ---
 
-I am a postdoctoral researcher at the University of Illinois at Urbana-Champaign, where I am fortunate to be advised by [Prof. R. Srikant](https://sites.google.com/a/illinois.edu/srikant/home). I am broadly interested in the area of machine learning, including reinforcement learning, online learning (in particular, multi-armed bandit) and representation learning.
+I am a postdoc at UIUC, advised by [Prof. R. Srikant](https://sites.google.com/a/illinois.edu/srikant/home). My research interests focus on machine learning, including reinforcement learning (RL), online learning (in particular, bandits) and multi-task learning. Recently, I am interested in the application of RL and bandits in LLMs (e.g., RLHF and DPO), and diffusion models for decision making.
 
-Prior to that, I received my Ph.D. from [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/) (headed by [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)), Tsinghua University in June 2023. During my Ph.D. study, I was fortunate to be advised by [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/) and also work closely with [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (Director of [MSR Asia Theory Center](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/)).
+Previously, I obtained my Ph.D. degree from [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/) (headed by [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)) in June 2023, advised by [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/). I visited Cornell University in person in Fall 2022, working with [Prof. Wen Sun](https://wensun.github.io/), and was a research intern at [MSR Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) during January-May 2020, mentored by [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/). In my research works, I collaborate with industry including Nvidia and Microsoft.
 
-I visited Cornell University in person during September-December 2022, where I was lucky to be supervised by [Prof. Wen Sun](https://wensun.github.io/). I was also a research intern at [MSR Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) during January-May 2020, supervised by [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/).
+-------
 
+I will join the ESD pillar at Singapore University of Technology and Design (SUTD) as a tenure-track assistant professor (endowed position) in August 2025. <font color="red">I am actively looking for Ph.D. students with full scholarship (2025 Fall or 2026 Spring), research interns, and visiting scholars.</font> If you are interested in working with me, feel free to email me with your CV, and several sentences describing your background and available time period. 
 
-<!-- My research focuses on designing both computationally and statistically efficient bandit and RL algorithms, establishing rigorous theoretical analysis, and expanding online learning and RL theories. -->
+I am a hands-on mentor. I co-mentored two undergraduate students with my Ph.D. advisor before, and both projects were published on top conferences NeurIPS and ICLR (the student is the first author).
 
-<!-- My committee members are [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (MSRA, IEEE Fellow), [Wei Chen](https://weichen-cas.github.io/) (CAS), [Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/) (Tsinghua), [Jian Li](https://people.iiis.tsinghua.edu.cn/~jianli/) (Tsinghua) and [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) (Tsinghua, IEEE Fellow). -->
+Email: yihandu@illinois.edu; duyihan1996@gmail.com. 
 
-Email: yihandu@illinois.edu
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} here.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} here (last update: September 2024).
 

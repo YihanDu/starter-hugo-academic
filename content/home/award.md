@@ -47,10 +47,6 @@ China National Scholarship for Ph.D. Students, by Ministry of Education of China
 
 Toyota Scholarship, by Toyota and Tsinghua University, October 2021
 
-Huawei Academic Excellence Scholarship, by Huawei and Tsinghua University, October 2020
-
-Wuqing Talent Scholarship, by Tianjin Wuqing District Government and Tsinghua University, October 2020
-
 Outstanding Graduate, by Xiamen University, June 2018
 
 <!-- Academic Excellence Scholarship, by Xiamen University, October 2017, 2015

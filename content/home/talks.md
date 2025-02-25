@@ -41,10 +41,16 @@ design:
   columns: '1'
 ---
 
-"Why is RLHF Data-Efficient in Policy Optimization," [China Computer Federation (CCF) Agent and Multi-Agent System Seminar](https://mp.weixin.qq.com/s/siwlT55WsSc7ofhSR04Nzw), June 2024
+"Why is RLHF Data-Efficient in Policy Optimization" 
+- UC Riverside CS, February 2024
+- SUTD ESD, January 2024
+- NTU CCDS, January 2024
+- Colorado School of Mines, January 2024
+- NJIT CS, December 2024
+- [China Computer Federation (CCF) Agent and Multi-Agent System Seminar](https://mp.weixin.qq.com/s/siwlT55WsSc7ofhSR04Nzw), June 2024
 
-"Risk-aware Online Decision Making," [TrustML Young Scientist Seminar, RIKEN AIP](https://trustmlresearch.github.io/index.html), May 2023
+"Risk-aware Online Decision Making" 
+- [TrustML Young Scientist Seminar](https://trustmlresearch.github.io/index.html), RIKEN AIP, May 2023
+- [MLOPT Idea Seminar](https://mlopt.ece.wisc.edu/idea-seminar/), UW-Madison, April 2023
 
-"Risk-aware Online Decision Making," [MLOPT Idea Seminar, University of Wisconsin-Madison](https://mlopt.ece.wisc.edu/idea-seminar/), April 2023
-
-"Combinatorial Pure Exploration for Dueling Bandit," CCF Doctoral Forum in Theoretical Computer Science, June 2021 (only 18 Ph.D. students in theoretical computer science are invited nationwide)
+"Combinatorial Pure Exploration for Dueling Bandit," CCF Doctoral Forum in Theoretical Computer Science, June 2021
