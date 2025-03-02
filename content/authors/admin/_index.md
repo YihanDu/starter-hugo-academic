@@ -22,10 +22,10 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Reinforcement learning, online learning (in particular, bandits)
+  - RL, online learning (in particular, bandits)
   - Application of RL and bandits in LLMs, e.g., RLHF and DPO
   - Diffusion models for decision making
-  - Multi-task/Meta learning
+  - Multi-task/Meta/Representation learning
 
 # Education to show in About widget
 education:
@@ -73,9 +73,9 @@ email: 'yihandu@illinois.edu'
 highlight_name: true
 ---
 
-I am a postdoc at UIUC, advised by [Prof. R. Srikant](https://sites.google.com/a/illinois.edu/srikant/home). My research interests focus on machine learning, including reinforcement learning (RL), online learning (in particular, bandits) and multi-task learning. Recently, I am interested in the application of RL and bandits in LLMs (e.g., RLHF and DPO), and diffusion models for decision making.
+I am a postdoc at UIUC, advised by [Prof. R. Srikant](https://sites.google.com/a/illinois.edu/srikant/home) (IEEE Fellow). My research interests focus on machine learning, including reinforcement learning (RL), online learning (in particular, bandits) and multi-task learning. Recently, I am interested in the application of RL and bandits in LLMs (e.g., RLHF and DPO), and diffusion models for decision making.
 
-Previously, I obtained my Ph.D. degree from [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/) (headed by [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)) in June 2023, advised by [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/). I visited Cornell University in person in Fall 2022, working with [Prof. Wen Sun](https://wensun.github.io/), and was a research intern at [MSR Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) during January-May 2020, mentored by [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/). In my research works, I collaborate with industry including Nvidia and Microsoft.
+Previously, I obtained my Ph.D. degree from [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/) (headed by [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)) in June 2023, advised by [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/). I visited Cornell University in person in Fall 2022, working with [Prof. Wen Sun](https://wensun.github.io/), and was a research intern at [MSR Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) during January-May 2020, mentored by [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (ACM/IEEE Fellow, Director of MSR Asia Theory Center). In my research works, I collaborate with industry including Nvidia and Microsoft.
 
 -------
 
