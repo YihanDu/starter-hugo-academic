@@ -79,7 +79,7 @@ Previously, I obtained my Ph.D. degree from [IIIS, Tsinghua University](https://
 
 -------
 
-I will join the ESD pillar at Singapore University of Technology and Design (SUTD) as a tenure-track assistant professor (endowed position) in August 2025. <font color="red">I am actively looking for Ph.D. students with full scholarship (2025 Fall or 2026 Spring), research interns, and visiting scholars.</font> If you are interested in working with me, feel free to email me with your CV, and several sentences describing your background and available time period. 
+I will join the ESD pillar at Singapore University of Technology and Design (SUTD) as a tenure-track assistant professor in August 2025. <font color="red">I am actively looking for Ph.D. students with full scholarship (2025 Fall or 2026 Spring), research interns, and visiting scholars.</font> If you are interested in working with me, feel free to email me with your CV, and several sentences describing your background and available time period. 
 
 I am a hands-on mentor. I co-mentored two undergraduate students with my Ph.D. advisor before, and both projects were published on top conferences NeurIPS and ICLR (the student is the first author).
 
