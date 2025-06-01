@@ -36,6 +36,8 @@ design:
   columns: '1'
 ---
 
+**Yihan Du**, Anna Winnicki, Gal Dalal, Shie Mannor, R. Srikant, "Reinforcement Learning with Segment Feedback," International Conference on Machine Learning (ICML), 2025.
+
 **Yihan Du**, Anna Winnicki, Gal Dalal, Shie Mannor, R. Srikant, "Exploration-Driven Policy Optimization in RLHF: Theoretical Insights on Efficient Data Utilization," International Conference on Machine Learning (ICML), 2024. [[pdf]](https://openreview.net/pdf?id=hLGxDYo0eF) [[arXiv]](https://arxiv.org/abs/2402.10342)
 
 **Yihan Du**, R. Srikant, Wei Chen, "Cascading Reinforcement Learning," International Conference on Learning Representations (ICLR), 2024 (<font color='red'>spotlight, top 5%</font>). [[pdf]](https://openreview.net/pdf?id=KjOAHlKMF5) [[arXiv]](https://arxiv.org/abs/2401.08961)
