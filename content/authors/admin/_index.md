@@ -67,7 +67,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'yihandu@illinois.edu'
+email: 'duyihan1996@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -83,7 +83,7 @@ I will join the ESD pillar at Singapore University of Technology and Design (SUT
 
 I am a hands-on mentor. I co-mentored two undergraduate students with my Ph.D. advisor before, and both projects were published on top conferences NeurIPS and ICLR (the student is the first author).
 
-Email: yihandu@illinois.edu; duyihan1996@gmail.com. 
+Email: duyihan1996@gmail.com; ~~yihandu@illinois.edu~~
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} here (last update: September 2024).
 

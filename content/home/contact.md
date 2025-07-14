@@ -25,7 +25,7 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: yihandu@illinois.edu; duyihan1996@gmail.com
+  email: duyihan1996@gmail.com
   # phone: 888 888 88 88
   address:
     street: Coordinated Science Laboratory, 1308 W Main Street
