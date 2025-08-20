@@ -45,7 +45,7 @@ design:
 - UC Riverside CS, February 2024
 - SUTD ESD, January 2024
 - NTU CCDS, January 2024
-- Colorado School of Mines, January 2024
+- Colorado School of Mines CS, January 2024
 - NJIT CS, December 2024
 - [China Computer Federation (CCF) Agent and Multi-Agent System Seminar](https://mp.weixin.qq.com/s/siwlT55WsSc7ofhSR04Nzw), June 2024
 

@@ -25,14 +25,14 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: duyihan1996@gmail.com
+  email: yihan_du@sutd.edu.sg
   # phone: 888 888 88 88
   address:
-    street: Coordinated Science Laboratory, 1308 W Main Street
-    city: Urbana
-    region: IL
-    postcode: 61801, United States
-    country: United States
+    street: Building 1, Singapore University of Technology and Design, 8 Somapah Rd
+    city:
+    region:
+    postcode: 487372
+    country: Singapore
     country_code:
   # coordinates:
   #   latitude: '37.4275'
