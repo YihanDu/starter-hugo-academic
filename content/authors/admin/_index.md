@@ -75,7 +75,7 @@ highlight_name: true
 
 I am a tenure-track assistant professor at the ESD pillar of the Singapore University of Technology and Design (SUTD). My research interests focus on machine learning, including reinforcement learning (RL), online learning (in particular, bandits) and multi-task learning. Recently, I am interested in the application of RL and bandits in LLMs (e.g., RLHF and DPO), and diffusion models for decision making.
 
-Previously, I was a postdoc at UIUC, advised by [Prof. R. Srikant](https://sites.google.com/a/illinois.edu/srikant/home) (IEEE Fellow) during 2023-2025. I obtained my Ph.D. degree from [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/) (headed by [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)) in June 2023, advised by [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/). I visited Cornell University in person in Fall 2022, working with [Prof. Wen Sun](https://wensun.github.io/), and was a research intern at [MSR Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) during January-May 2020, mentored by [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (ACM/IEEE Fellow, Director of MSR Asia Theory Center). In my research works, I collaborate with industry including Nvidia and Microsoft.
+Previously, I was a postdoc at UIUC during 2023-2025, advised by [Prof. R. Srikant](https://sites.google.com/a/illinois.edu/srikant/home) (IEEE Fellow). I obtained my Ph.D. degree from [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/) (headed by [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)) in June 2023, advised by [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/). I visited Cornell University in person in Fall 2022, working with [Prof. Wen Sun](https://wensun.github.io/), and was a research intern at [MSR Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) during January-May 2020, mentored by [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (ACM/IEEE Fellow, Director of MSR Asia Theory Center). In my research works, I collaborate with industry including Nvidia and Microsoft.
 
 -------
 
@@ -85,5 +85,5 @@ I am a hands-on mentor. I co-mentored two undergraduate students with my Ph.D. a
 
 Email: yihan_du@sutd.edu.sg; ~~yihandu@illinois.edu~~
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} here (last update: September 2024).
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} here (last update: August 2025).
 
