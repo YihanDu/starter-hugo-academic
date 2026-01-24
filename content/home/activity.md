@@ -45,10 +45,13 @@ design:
   columns: '1'
 ---
 
+**Area Chair**  
+ICML 2026
+
 **Reviewer**  
 Conference: ICML, NeurIPS, ICLR, AAAI, AISTATS, UAI, RLC
 
-Journal: Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Journal of Machine Learning Research (JMLR), Transactions on Networking (ToN), Transactions on Machine Learning Research (TMLR), Transactions on Network Science and Engineering (TNSE)
+Journal: Journal of Machine Learning Research (JMLR), Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Transactions on Information Theory (TIT), Transactions on Networking (ToN), Transactions on Machine Learning Research (TMLR), Transactions on Network Science and Engineering (TNSE)
 
 **Technical Program Committee (TPC) Member**  
 INFOCOM, WiOpt
