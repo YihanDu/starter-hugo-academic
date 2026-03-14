@@ -7,9 +7,9 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 70
 
-title: Academic Service
+title: Teaching
 subtitle:
 
 # Date format for experience
@@ -45,13 +45,9 @@ design:
   columns: '1'
 ---
 
-**Area Chair**  
-ICML 2026
+**Teaching**  
+Capstone (undergraduate final project), SUTD, Fall 2025 - Spring 2026
 
-**Reviewer**  
-Conference: ICML, NeurIPS, ICLR, AAAI, AISTATS, UAI, RLC
-
-Journal: Journal of Machine Learning Research (JMLR), Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Transactions on Information Theory (TIT), Operations Research (OR), Transactions on Networking (ToN), Transactions on Machine Learning Research (TMLR), Transactions on Network Science and Engineering (TNSE)
-
-**Technical Program Committee (TPC) Member**  
-INFOCOM, WiOpt
+**Teaching Assistant**  
+Stochastic Network Optimization (taught in English), graduate course at IIIS, Tsinghua University, Spring 2021  
+Introduction to Computer Science (taught in English), undergraduate course for Yao Class, Tsinghua University, Fall 2019  

@@ -7,9 +7,9 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 30
 
-title: 'Invited Talks'
+title: 'Group'
 subtitle:
 
 content:
@@ -41,16 +41,15 @@ design:
   columns: '1'
 ---
 
-"Why is RLHF Data-Efficient in Policy Optimization" 
-- UC Riverside CS, February 2024
-- SUTD ESD, January 2024
-- NTU CCDS, January 2024
-- Colorado School of Mines CS, January 2024
-- NJIT CS, December 2024
-- [China Computer Federation (CCF) Agent and Multi-Agent System Seminar](https://mp.weixin.qq.com/s/siwlT55WsSc7ofhSR04Nzw), June 2024
+**PhD Students**  
+Fuyang Wei, 2025 - Present (Master of DS @ HKU, B.S. in Statistics @ SYSU)
+<!-- - Master of Data Science, HKU, 2024
+- B.S. in Statistics, SYSU, 2022 -->
 
-"Risk-aware Online Decision Making" 
-- [TrustML Young Scientist Seminar](https://trustmlresearch.github.io/index.html), RIKEN AIP, May 2023
-- [MLOPT Idea Seminar](https://mlopt.ece.wisc.edu/idea-seminar/), UW-Madison, April 2023
+**Visiting Students**  
+Hangjun Wang, 2025 - Present (PhD student @ NWPU, B.S. in Statistics @ NWPU)
+<!-- - PhD student in AI, NWPU, 2024 - Present
+- B.S. in Statistics, NWPU, 2024 -->
 
-"Combinatorial Pure Exploration for Dueling Bandit," CCF Doctoral Forum in Theoretical Computer Science, June 2021
+
+
