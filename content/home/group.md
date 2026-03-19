@@ -53,8 +53,9 @@ Hangjun Wang, 2025 - Present (PhD student in AI @ NWPU, B.S. in Statistics @ NWP
 
 **Research Interns**  
 Rongyuan Du, 2025 - Present (Master student in Math @ RUC, B.S. in Math @ SHU)  
-[Valentio Iverson](https://valentioiverson.github.io/), 2026 - Present (incoming PhD student @ MIT EECS, B.S. in Math @ University of Waterloo)  
+[Valentio Iverson](https://valentioiverson.github.io/), 2026 - Present (Incoming PhD student @ MIT EECS, B.S. in Math @ University of Waterloo)  
 [Fengxu Liu](https://z23v2p.github.io/), 2025 - Present (Master student in DSML @ NUS, B.S. in Statistics @ SUFE)  
-Yao Yao, 2025 - Present (MSc in ISE @ NUS, Bachelor of Management @ HUST)  
+- Incoming research intern at MSR Asia (starting September 2026, under my recommendation)  
 
+Yao Yao, 2025 - Present (MSc in ISE @ NUS, Bachelor of Management @ HUST)  
 

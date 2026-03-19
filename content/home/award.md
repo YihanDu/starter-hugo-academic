@@ -43,7 +43,7 @@ design:
 
 Beijing Outstanding Graduate, by Beijing Municipal Education Commission, June 2023 (the only recipient among CS graduates at IIIS, Tsinghua University)
 
-China National Scholarship for Ph.D. Students, by Ministry of Education of China, October 2022 (the only recipient among CS students at IIIS, Tsinghua University)
+<font color='red'>China National Scholarship for Ph.D. Students</font>, by Ministry of Education of China, October 2022 (the only recipient among CS students at IIIS, Tsinghua University)
 
 Toyota Scholarship, by Toyota and Tsinghua University, October 2021
 
