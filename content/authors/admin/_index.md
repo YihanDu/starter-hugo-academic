@@ -81,9 +81,9 @@ Previously, I was a postdoc at UIUC during 2023-2025, advised by [Prof. R. Srika
 
 <font color="red">I am actively looking for Ph.D. students with full scholarship (2026 Fall), research interns, and visiting scholars.</font> I am a hands-on mentor. I co-mentored two undergraduate students with my Ph.D. advisor before, and both projects were published at top conferences NeurIPS and ICLR (the student is the first author).
 
-<font color="red">I am also actively looking for postdocs in deep RL and robotics</font> (start around July 2026). At SUTD, we have well-established quadruped robotic platforms and real-world test environments, and an experienced robotics faculty and engineer team.
+<font color="red">I am also actively looking for postdocs in deep RL and robotics.</font> At SUTD, we have well-established quadruped robotic platforms and real-world test environments, and an experienced robotics faculty and engineer team.
 
-If you are interested in working with me, feel free to email me with your CV, and several sentences describing your background and available time period. 
+If you are interested in working with me, feel free to email me with your CV, and several sentences describing your background and available time period. I apologize that I am not able to reply to all emails due to time constraints. If you need my reply, please follow up after at least two weeks.
 
 Email: yihan_du@sutd.edu.sg; ~~yihandu@illinois.edu~~
 

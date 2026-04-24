@@ -46,7 +46,7 @@ design:
 ---
 
 **Area Chair**  
-ICML 2026
+ICML 2026, NeurIPS 2026
 
 **Reviewer**  
 Conference: ICML, NeurIPS, ICLR, AAAI, AISTATS, UAI, RLC
