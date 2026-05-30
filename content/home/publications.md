@@ -36,6 +36,8 @@ design:
   columns: '1'
 ---
 
+Yu Chen, Yuhao Liu, Jiatai Huang, **Yihan Du**, Longbo Huang, "Best-of-Both-Worlds for Heavy-Tailed Markov Decision Processes," International Conference on Machine Learning (ICML), 2026.
+
 **Yihan Du**, Anna Winnicki, Gal Dalal, Shie Mannor, R. Srikant, "Reinforcement Learning with Segment Feedback," International Conference on Machine Learning (ICML), 2025. [[pdf]](https://proceedings.mlr.press/v267/du25e.html) [[arXiv]](https://arxiv.org/pdf/2502.01876)
 
 **Yihan Du**, Anna Winnicki, Gal Dalal, Shie Mannor, R. Srikant, "Exploration-Driven Policy Optimization in RLHF: Theoretical Insights on Efficient Data Utilization," International Conference on Machine Learning (ICML), 2024. [[pdf]](https://openreview.net/pdf?id=hLGxDYo0eF) [[arXiv]](https://arxiv.org/abs/2402.10342)
