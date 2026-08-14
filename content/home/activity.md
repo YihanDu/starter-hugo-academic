@@ -46,12 +46,16 @@ design:
 ---
 
 **Area Chair**  
-ICML 2026, NeurIPS 2026
+ICML 2026, NeurIPS 2026, ICLR 2027
+
+**Senior Program Committee**
+
+AAAI 2027
 
 **Reviewer**  
-Conference: ICML, NeurIPS, ICLR, AAAI, AISTATS, UAI, RLC
+Conference: ICML, NeurIPS, ICLR, AAAI, AISTATS, UAI, RLC, SIGMETRICS
 
-Journal: Journal of Machine Learning Research (JMLR), Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Transactions on Information Theory (TIT), Operations Research (OR), Transactions on Networking (ToN), Transactions on Machine Learning Research (TMLR), Transactions on Network Science and Engineering (TNSE)
+Journal: Journal of Machine Learning Research (JMLR), Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Transactions on Information Theory (TIT), Transactions on Networking (ToN), Transactions on Machine Learning Research (TMLR), Transactions on Network Science and Engineering (TNSE), Operations Research (OR), Mathematics of Operations Research (MOR)
 
 **Technical Program Committee (TPC) Member**  
 INFOCOM, WiOpt

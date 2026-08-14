@@ -46,8 +46,9 @@ design:
 ---
 
 **Teaching**  
-Capstone (undergraduate final project), SUTD, Fall 2025 - Spring 2026
+The Analytics Edge, undergraduate course, SUTD, Summer 2026  
+Capstone, undergraduate final project, SUTD, Fall 2025 - Spring 2026
 
 **Teaching Assistant**  
-Stochastic Network Optimization (taught in English), graduate course at IIIS, Tsinghua University, Spring 2021  
-Introduction to Computer Science (taught in English), undergraduate course for Yao Class, Tsinghua University, Fall 2019  
+Stochastic Network Optimization, graduate course at IIIS, Tsinghua University, Spring 2021  
+Introduction to Computer Science, undergraduate course for Yao Class, Tsinghua University, Fall 2019  

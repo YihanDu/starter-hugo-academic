@@ -42,20 +42,24 @@ design:
 ---
 
 **PhD Students**  
-Fuyang Wei, 2025 - Present (Master of Data Science @ HKU, B.S. in Statistics @ SYSU)
+Fuyang Wei, 2025 - Present (MSc in DS @ HKU, B.S. in Statistics @ SYSU)
 <!-- - Master of Data Science, HKU, 2024
 - B.S. in Statistics, SYSU, 2022 -->
 
 **Visiting Students**  
+Qidong Sun, 2026 - Present (undergraduate student in Robotics Engineering, Mingyue Innovation Class @ CQU)  
 Hangjun Wang, 2025 - Present (PhD student in AI @ NWPU, B.S. in Statistics @ NWPU)
 <!-- - PhD student in AI, NWPU, 2024 - Present
 - B.S. in Statistics, NWPU, 2024 -->
 
+**Senior Research Assistants**  
+[Wenbin Wang](https://wenbinwang12.github.io/), 2026 - Present (M.S. in CS @ ShanghaiTech, B.Econ. in Economic Statistics @ HZAU)
+
 **Research Interns**  
-Rongyuan Du, 2025 - Present (Master student in Math @ RUC, B.S. in Math @ SHU)  
-[Valentio Iverson](https://valentioiverson.github.io/), 2026 - Present (Incoming PhD student @ MIT EECS, B.S. in Math @ University of Waterloo)  
-[Fengxu Liu](https://z23v2p.github.io/), 2025 - Present (Master student in DSML @ NUS, B.S. in Statistics @ SUFE)  
+Rongyuan Du, 2025 - Present (Master's student in Math @ RUC, B.S. in Math @ SHU)  
+[Valentio Iverson](https://valentioiverson.github.io/), 2026 - Present (Incoming PhD student @ MIT EECS, B.S. in Math @ UWaterloo)  
+[Fengxu Liu](https://z23v2p.github.io/), 2025 - Present (Master's student in DSML @ NUS, B.S. in Statistics @ SUFE)  
 - Incoming research intern at MSR Asia (starting September 2026, under my recommendation)  
 
-Yao Yao, 2025 - Present (MSc in ISE @ NUS, Bachelor of Management @ HUST)  
-
+Yao Yao, 2025 - Present (MSc in ISE @ NUS, B.Mgt. @ HUST)  
+Tianyun Jiang, 2026 - Present (undergraduate student in DS @ FDU)
