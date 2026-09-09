@@ -73,7 +73,7 @@ email: 'yihan_du@sutd.edu.sg'
 highlight_name: true
 ---
 
-I am a tenure-track assistant professor (Cheng Tsang Man DIVE Scholar) at the Engineering Systems and Design (ESD) Pillar of the Singapore University of Technology and Design (SUTD). My research focuses on machine learning, including reinforcement learning (RL), online learning, and multi-task learning. Recently, I am interested in the application of RL in LLMs, e.g., RLHF, DPO and reasoning, and diffusion models for decision making.
+I am a tenure-track assistant professor (Cheng Tsang Man DIVE Scholar) at the Engineering Systems and Design (ESD) Pillar of the Singapore University of Technology and Design (SUTD). My research focuses on machine learning, including reinforcement learning (RL), online learning, and multi-task learning. Recently, I am interested in the application of RL in LLMs, e.g., RLHF, DPO, and reasoning, and diffusion models for decision making.
 
 Previously, I was a postdoc at UIUC during 2023-2025, advised by [Prof. R. Srikant](https://sites.google.com/a/illinois.edu/srikant/home) (IEEE Fellow). I obtained my Ph.D. degree from [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/) (headed by [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)) in 2023, advised by [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/). I visited Cornell University in 2022, working with [Prof. Wen Sun](https://wensun.github.io/), and was a research intern at [MSR Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) in 2020, mentored by [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (ACM/IEEE Fellow, Director of MSR Asia Theory Center). I collaborate with industry including NVIDIA and Microsoft.
 
@@ -81,7 +81,7 @@ Previously, I was a postdoc at UIUC during 2023-2025, advised by [Prof. R. Srika
 
 <font color="red">I am actively looking for Ph.D. students with full scholarship (2027 Spring/Fall), research interns, and visiting scholars.</font> I am a hands-on mentor. I co-mentored two undergraduate students with my Ph.D. advisor before, and both projects were published at top conferences NeurIPS and ICLR (the student is the first author).
 
-<font color="red">I am also actively looking for postdocs in deep RL and robotics.</font> At SUTD, we have well-established quadruped robotic platforms and real-world test environments, and an experienced robotics faculty and engineer team.
+<font color="red">I am also actively looking for postdocs in robotics.</font> At SUTD, we have well-established quadruped robotic platforms and real-world test environments, and an experienced robotics faculty and engineer team.
 
 If you are interested in working with me, feel free to email me with your CV, and several sentences describing your background and available time period. I apologize that I am not able to reply to all emails due to time constraints. If you need my reply, please follow up after at least two weeks.
 
