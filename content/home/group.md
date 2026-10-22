@@ -52,10 +52,12 @@ Qidong Sun, 2026 - Present (undergraduate student in Robotics Engineering, Mingy
 [Wenbin Wang](https://wenbinwang12.github.io/), 2026 - Present (M.S. in CS @ ShanghaiTech, B.Econ. in Economic Statistics @ HZAU)
 
 **Research Interns**  
-Rongyuan Du, 2025 - Present (Master's student in Math @ RUC, B.S. in Math @ SHU)  
+Rongyuan Du, 2025 - Present (PhD student in Math @ RUC, B.S. in Math @ SHU)  
 [Valentio Iverson](https://valentioiverson.github.io/), 2026 - Present (PhD student @ MIT EECS, B.S. in Math @ UWaterloo)  
 [Fengxu Liu](https://z23v2p.github.io/), 2025 - Present (Master's student in DSML @ NUS, B.S. in Statistics @ SUFE)  
-- Incoming research intern at MSR Asia (starting September 2026, via my recommendation)   
+- Research intern at MSR Asia (starting September 2026, via my recommendation)   
+
+Yaoyuan Guo, 2026 - Present (undergraduate student in DS @ SUSTech)
 
 **Alumni**  
 Hangjun Wang, 2025 - 2026 (PhD student in AI @ NWPU, B.S. in Statistics @ NWPU)

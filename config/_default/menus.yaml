@@ -16,14 +16,14 @@ main:
   - name: Group
     url: '#group'
     weight: 30
-  - name: Selected Awards
-    url: '#award'
-    weight: 40
-  - name: Invited Talks
-    url: '#talks'
-    weight: 50
   - name: Academic Service
     url: '#service'
+    weight: 40
+  - name: Selected Awards
+    url: '#award'
+    weight: 50
+  - name: Invited Talks
+    url: '#talks'
     weight: 60
   - name: Teaching
     url: '#teaching'
